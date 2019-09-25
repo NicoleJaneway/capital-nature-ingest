@@ -132,7 +132,7 @@ touch <name_of_your_scraper>_test.py
 
 2. Open this file you just made and copy-paste the contents of any other test file (e.g. [this one](https://github.com/DataKind-DC/capital-nature-ingest/edit/master/tests/ans_test.py)) into your new test file.
 
-3. Change the import statement on line 5 to reference you're event scraper file
+3. Change the import statement on line 5 to reference your event scraper file
 
 ```python
 ...
